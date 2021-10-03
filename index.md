@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ajie Dwihastadi | Android Developer</title>
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ajie Dwihastadi Portfolio Web">
+    <link rel="shortcut icon" href="favicon.ico">  
+    
+    <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> 
+    
+    <script defer src="assets/fontawesome/js/all.js"></script>
+    
+    <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">   
+    
+    <link rel="stylesheet" href="assets/plugins/github-calendar/dist/github-calendar.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+    <link rel="stylesheet" href="assets/plugins/github-activity/github-activity-0.1.5.min.css">
+    
+    <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
+    
+</head> 
+
+<body>
+    <header class="header">
+        <div class="container clearfix">                       
+            <img class="profile-image img-fluid float-left rounded-circle" src="assets/images/profile.png" alt="profile image" />
+            <div class="profile-content float-left">
+                <h1 class="name">Ajie Dwihastadi</h1>
+                <h2 class="desc">Android Developer</h2>   
+                <ul class="social list-inline">
+                    <li class="list-inline-item"><a href="https://medium.com/@ajiedwi" target="_blank"><i class="fab fa-medium"></i></a></li>
+                    <li class="list-inline-item"><a href="https://www.linkedin.com/in/ajiedwi" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li class="list-inline-item"><a href="https://github.com/ajiedwi" target="_blank"><i class="fab fa-github-alt"></i></a></li>
+                </ul> 
+            </div>
+            <a class="btn btn-cta-primary float-right" href="mailto:ajiedwi4798@gmail.com" target="_blank"><i class="fas fa-paper-plane"></i> Contact Me</a>              
+        </div>
+    </header>
+
+    <div class="container-main">
+        <div id="particles-js" class="background"></div>
+        <div class="container sections-wrapper">
+            <div class="row">
+                <div class="primary col-lg-8 col-12">
+                    <section class="about section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">About Me</h2>
+                            <div class="content">
+                                <p>
+                                    I thought I’ll never be addicted to code.
+    
+                                    <br></br>In my first and second year of college, I can’t code at all for sure. I had thought that I took a wrong major in college. But some miracles happen in our life right?. Someday in 2017, my alumni came to me and asked if I could work with them. Without a second thought, I said yes. I remember, my first job was to build an Android Application for national exhibition. I learned so much about Android Application Development in a short time. After I finished it, I felt very satisfied and it made me addicted to writing code and becoming an Android Developer. 
+    
+                                    <br></br>Who would have thought, a small decision could give us new goals. I decided to become a Software Engineer, especially as a Mobile Apps Developer. Since then, I've never get enough, I keep studying. Android Development call to all my passions, it brings together creativity and problem solving to generate a clean, structured, and well documented code.
+    
+                                    <br></br>I’m also enthusiastic about UI/UX of Mobile Application. I’d really love to see a clean, beautiful, and simple design. There is a certain satisfaction when I’m working on it. Especially if the Application I’ve made could be very useful to many people. 
+    
+                                    <br></br>My specialities include quickly learning new skill and programming languages, problem solving and organizing code using Mobile Apps Development Pattern such as Model ViewModel Model (MVVM) and Model View Controller (MVC). So far I’m proficient in Java, Kotlin, Javascript, PHP, XML, Git and Restful API. I'm willing and passionate to grab onto any other programming languages, frameworks, or principles that makes my insight about Mobile Apps Development even deeper.
+                                </p>
+                             
+                            </div>
+                        </div>
+                    </section>
+        
+                   <section class="latest section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">Latest Projects</h2>
+                            <div class="content">    
+                                <div class="item featured text-center">
+                                    <div class="featured-image has-ribbon">
+                                        <a href="https://play.google.com/store/apps/details?id=jiwa.group.jiwaplus" target="_blank">
+                                        <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/jiwa_app.png" alt="JIWA+" />
+                                        </a>
+                                        <div class="ribbon">
+                                            <div class="text">New</div>
+                                        </div>
+                                    </div>
+                                    
+                                    <h3 class="title mb-3"><a href="https://play.google.com/store/apps/details?id=jiwa.group.jiwaplus" target="_blank">JIWA +</a></h3>
+                                        
+                                    <div class="desc text-left">                                    
+                                        <p>
+                                            JIWA+ is an application for consumers of the famous coffee brand, Janji Jiwa. The main feature of this application is to order coffee, bread and other foods from the Janji Jiwa brand. This application aims to make it easier for consumers to make online transactions to order their coffee.
+                                        </p>
+                                    </div>
+                                </div>
+                                <hr class="divider" />
+
+                                <div class="item row">
+                                    <div class="col-md-3 col-12">
+                                        <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/jilid+.png" alt="JILID+" />
+                                    </div>
+                                    <div class="desc col-md-9 col-12">
+                                        <h3 class="title">Jilid+ Outlet App (for outlet only)</h3>
+                                        <p class="mb-2">
+                                            JILID+ is an application that is specially made for branch outlets of the Janji Jiwa brand. The application is used to receive and process orders that are entered and made from the JIWA+ application.
+                                        </p>
+                                        <p><a class="more-link" href="https://play.google.com/store/apps/details?id=jiwa.group.jilidplus" target="_blank"><i class="fas fa-external-link-alt"></i>Open in Play Store</a></p>
+                                    </div>
+                                </div>
+                                
+                                <div class="item row">
+                                    <div class="col-md-3 col-12">
+                                        <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/maxx.png" alt="MAXX Coffee" />
+                                    </div>
+                                    <div class="desc col-md-9 col-12">
+                                        <h3 class="title">MAXX Coffee</h3>
+                                        <p class="mb-2">
+                                            MAXX Coffee is an application to make it easier for users to order coffee at MAXX Coffee. This application aims so that users can customize their coffee orders very easily and quickly and with very simple payments.
+                                        </p>
+                                        <p><a class="more-link" href="https://play.google.com/store/apps/details?id=com.maxxcoffee.id" target="_blank"><i class="fas fa-external-link-alt"></i>Open in Play Store</a></p>
+                                    </div>
+                                </div>
+
+                                <div class="item row">
+                                    <div class="col-md-3 col-12">
+                                        <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/resto.png" alt="Champ Resto" />
+                                    </div>
+                                    <div class="desc col-md-9 col-12">
+                                        <h3 class="title">RESTO: Aplikasi Loyalty Raa Cha dan Gokana</h3>
+                                        <p class="mb-2">
+                                            Champ Resto is a membership application. This application aims to provide information related to promos, deals and other benefits by becoming a loyal member of Champ Resto.
+                                        </p>
+                                        <p><a class="more-link" href="https://play.google.com/store/apps/details?id=id.technopartner.champresto" target="_blank"><i class="fas fa-external-link-alt"></i>Open in Play Store</a></p>
+                                    </div>
+                                </div>
+
+                                <div class="item row">
+                                    <div class="col-md-3 col-12">
+                                        <img class="img-fluid project-image rounded shadow-sm" src="assets/images/projects/salatigaku.png" alt="SALATIGAKu" />
+                                    </div>
+                                    <div class="desc col-md-9 col-12">
+                                        <h3 class="title">SALATIGAKu - Jendela Salatiga</h3>
+                                        <p class="mb-2">
+                                            SALATIGAKu is an application that contains the latest information about the City of Salatiga. You can find various kinds of important information related to the city of Salatiga in this application, for example: Information about the nearest hospital, police station, tourist attraction etc.
+                                        </p>
+                                        <p><a class="more-link" href="https://play.google.com/store/apps/details?id=com.kreasikode.salatigaku" target="_blank"><i class="fas fa-external-link-alt"></i>Open in Play Store</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <section class="projects section" style="display: none;">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">Other Projects</h2>
+                            <div class="content">
+                                <div class="item">
+                                    <h3 class="title"><a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/" target="_blank">Pillar - Free Boootstrap Resume/CV Template for Developers</a> <span class="badge badge-theme">Free</span></h3>
+                                    <p class="summary">Provide a brief description of your project. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatu.</p>
+                                    <p><a class="more-link" href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/free-bootstrap4-resume-cv-template-for-developers-pillar/" target="_blank"><i class="fas fa-external-link-alt"></i>Download Now</a></p>
+                                </div>
+                                <a class="btn btn-cta-secondary" href="#">More on GitHub <i class="fas fa-chevron-right pt-1"></i></a>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <section class="experience section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">Work Experience</h2>
+                            <div class="content">
+                                <div class="item">
+                                    <h3 class="title">Android Developer - <span class="place"><a href="#">Technopartner Indonesia</a></span> <span class="year">(2019 - Present)</span></h3>
+                                    <p>I'm responsible for develop and deploy mobile applications (Android) with clean, reusable, and high quality code written in Kotlin</p>
+                                </div>
+                            </div>
+                            <div class="content">
+                                <div class="item">
+                                    <h3 class="title">IT Support - <span class="place">Museum Sonobudoyo</span> <span class="year">(2017 - Present)</span></h3>
+                                    <p>I am currently supporting the Sonobudoyo Museum on the IT field</p>
+                                </div>
+                            </div>
+                            <div class="content">
+                                <div class="item">
+                                    <h3 class="title">Software Engineer - <span class="place">self Employed</span> <span class="year">(2017 - Present)</span></h3>
+                                    <p>I'm developing various applications on the web and mobile platforms</p>
+                                </div>
+                            </div>
+                            <div class="content">
+                                <div class="item">
+                                    <h3 class="title">Android Developer - <span class="place">Kreasi Kode</span> <span class="year">(2018 - 2019)</span></h3>
+                                    <p>I'm responsible to develop mobile application (Android) with clean, reusable, and high quality code written in Java, Kotlin and React Native (Javascript)</p>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+                <div class="secondary col-lg-4 col-12">
+                     <aside class="info aside section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading sr-only">Basic Information</h2>
+                            <div class="content">
+                                <ul class="list-unstyled">
+                                    <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Yogyakarta, Indonesia</li>
+                                    <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span>ajiedwi4798@gmail.com</li>
+                                    <li><i class="fas fa-phone"></i><span class="sr-only">Phone:</span>+6281327183215</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </aside>
+                    
+                    <aside class="skills aside section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">Skills</h2>
+                            <div class="content">
+                                <p class="intro">
+                                    Although I focus on developing Android applications, I also have skills in several languages and Frameworks
+                                </p>
+                                
+                                <div class="skillset">
+                                   
+                                    <div class="item">
+                                        <h3 class="level-title">Kotlin<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true"></span></h3>
+                                        <div class="level-bar">
+                                            <div class="level-bar-inner" data-level="95%">
+                                            </div>                                      
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <h3 class="level-title">Java<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true"></span></h3>
+                                        <div class="level-bar">
+                                            <div class="level-bar-inner" data-level="90%">
+                                            </div>                                      
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <h3 class="level-title">React Native<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true"></span></h3>
+                                        <div class="level-bar">
+                                            <div class="level-bar-inner" data-level="75%">
+                                            </div>                                      
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <h3 class="level-title">Laravel<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true"></span></h3>
+                                        <div class="level-bar">
+                                            <div class="level-bar-inner" data-level="60%">
+                                            </div>                                      
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <h3 class="level-title">NodeJS<span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true"></span></h3>
+                                        <div class="level-bar">
+                                            <div class="level-bar-inner" data-level="60%">
+                                            </div>                                      
+                                        </div>
+                                    </div>
+                                </div>              
+                            </div>
+                        </div>
+                    </aside>
+                    
+                    <aside class="testimonials aside section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">Testimonials</h2>
+                            <div class="content">
+                                <div class="item">
+                                    <blockquote class="quote">                                  
+                                        <p><i class="fas fa-quote-left"></i>
+                                            He's a good person and best partner in the team. good analytics and highly skill in mobile development
+                                        </p>
+                                    </blockquote>                
+                                    <p class="source"><span class="name">Daniel Pradana</span><br /></p>                                                             
+                                </div>
+                                <p><a class="more-link" href="https://www.linkedin.com/in/ajiedwi" target="_blank"><i class="fas fa-external-link-alt"></i>More on Linkedin</a></p> 
+                            </div>
+                        </div>
+                    </aside>
+                    <aside class="education aside section">
+                        <div class="section-inner shadow-sm rounded">
+                            <h2 class="heading">Education</h2>
+                            <div class="content">
+                                <div class="item">
+                                    <h3 class="title"><i class="fas fa-graduation-cap"></i> BSc Informatics Engineering</h3>
+                                    <h4 class="university">UIN Sunan Kalijaga <span class="year">(2015-2019)</span></h4>
+                                </div>
+                            </div>
+                        </div>
+                    </aside>
+
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    
+    <!-- Javascript -->          
+    <script type="text/javascript" src="assets/plugins/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/popper.min.js"></script> 
+    <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
+    <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script> 
+    <!-- github calendar plugin -->
+    <script type="text/javascript" src="assets/plugins/github-calendar/dist/github-calendar.min.js"></script>
+    <!-- github activity plugin -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/github-activity/github-activity-0.1.5.min.js"></script>
+    <!-- custom js -->
+    <script type="text/javascript" src="assets/js/main.js"></script>            
+    <script type="text/javascript" src="assets/js/particles.js"></script>            
+    <script type="text/javascript" src="assets/js/app.js"></script>            
+</body>
+</html> 
+

@@ -170,6 +170,14 @@
                             </div>
                             <div class="content">
                                 <div class="item">
+                                    <h3 class="title">Mid Android Engineer - <span class="place"><a href="#">Moladin</a></span> <span class="year">(2022 - Present)</span></h3>
+                                    <p>
+                                        Working closely with Product Team to develop many features and products written in Kotlin with good architecture, clean and high quality code.  
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="content">
+                                <div class="item">
                                     <h3 class="title">IT Support - <span class="place">Museum Sonobudoyo</span> <span class="year">(2017 - Present)</span></h3>
                                     <p>I am currently supporting the Sonobudoyo Museum on the IT field</p>
                                 </div>
